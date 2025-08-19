@@ -1,0 +1,7 @@
+start
+declare variables C and F
+print: "enter a temperature in celsius"
+C = user input
+F = 9/5 * C + 32
+print: "C in fahrenheit is F"
+end
